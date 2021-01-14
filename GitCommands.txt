@@ -1,0 +1,8 @@
+#
+git-clone - from upstream to prime the local repository
+git-pull  - 
+git-fetch - from "origin" to keep up-to date with the upstream
+git-push  - to shared repository, if you adopt CVS shared repository workflow
+git-format-patch  - toprepare e-mail submission
+git-send-mail     - to send your e-mail submission withoutcorruption by your MUA
+git-request-pull  - to create a summary of changes of your uptream to pull
