@@ -4,18 +4,5 @@ git-pull  -
 git-fetch - from "origin" to keep up-to date with the upstream
 git-push  - to shared repository, if you adopt CVS shared repository workflow
 git-format-patch  - toprepare e-mail submission
-git-send-mail     - to send your e-mail submission withoutcorruption by your MUA
-git-request-pull  - to create a summary of changes of your uptream to pull
-
-#GitIntegrator
-git-am    - to apply patches e-mailed in from your contributors
-git-pull  - to merge from your trusted lieutenants
-git-format-patch  - to prepare and send suggested alternative to contributors
-git-revert  - to undo botched commits
-git-push  - to publish the bleeding edge
-
-#GitAdmin
-git-daemon  - to allow download fromo repository
-git-shell   - can be used as a restricted login shell for shared central repository users
-git-http-backend  - provides a server-side implementation of Git-over-HTTP (Smart http) allowing both fetch and push services
+git-send-mail     - to send your e-mail submission withoutcorruption by your MUApush services
 gitweb      - provides a web front-end to Git repositories, which can de set-up using the git-instaweb script
